@@ -1,7 +1,10 @@
-<!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SARVESH%20SHINDE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Founder%20%26%20CEO&descAlignY=58&descSize=18" width="100%" />
-
 <div align="center">
+
+<h1 align="center">SARVESH SHINDE</h1>
+
+<b>Software Developer · Founder &amp; CEO · Tech Founder</b>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Founder+%26+CEO+%40+Hydrasaurus+Agency;Head+of+Technicals+%40+Sattva+NMIMS+2027;B.Tech+IT+%40+NMIMS+MPSTME;Build+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Typing SVG" />
@@ -74,7 +77,7 @@ I'm a software developer, entrepreneur, and technology enthusiast focused on bui
       <h3>🎮 GigaEsports.in</h3>
       <sub><b>ESPORTS TECHNOLOGY</b></sub>
       <p>An esports platform focused on gaming content, match information, and digital experiences.</p>
-      <a href="https://gigaesports.in"><img src="https://img.shields.io/badge/Live-gigaesports.in-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/Status-Offline-6b7280?style=flat-square&logo=googlechrome&logoColor=white" /> <img src="https://img.shields.io/badge/gigaesports.in-currently_down-ef4444?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🦖 Hydrasaurus Agency</h3>
@@ -110,21 +113,6 @@ I'm a software developer, entrepreneur, and technology enthusiast focused on bui
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarvvesshhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvvesshhhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=sarvvesshhhh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvvesshhhh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
@@ -149,5 +137,3 @@ I'm a software developer, entrepreneur, and technology enthusiast focused on bui
 <sub>Technology, entrepreneurship, and products built with purpose.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
