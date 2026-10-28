@@ -3,11 +3,15 @@
 
 # SARVESH SHINDE
 
-**Software Developer · Tech Founder · Product Builder**
+**Software Developer · Founder & CEO · Tech Founder**
 
-Building digital products at the intersection of technology, business, and design.
+Founder & CEO, Hydrasaurus Agency  
+27+ Creators · 600K+ Reach
 
-[GitHub](https://github.com/sarvvesshhhh)
+B.Tech IT @ NMIMS MPSTME  
+Head of Technicals @ Sattva NMIMS 2027
+
+[LinkedIn](https://www.linkedin.com/in/sarvvesshhhh) · [GitHub](https://github.com/sarvvesshhhh) · [Email](mailto:sarvesh@hydrasaurusagency.in)
 
 </div>
 
@@ -15,34 +19,29 @@ Building digital products at the intersection of technology, business, and desig
 
 ### ABOUT
 
-I'm a software developer and technology founder interested in building
-practical digital products, full-stack applications, and technology-driven
-businesses.
+I'm a software developer, entrepreneur, and technology enthusiast
+focused on building digital products and practical software solutions.
 
-My work spans web development, esports technology, creator operations,
-booking platforms, and event technology.
+My work spans full-stack web development, esports technology,
+creator operations, event technology, databases, and 3D modeling.
 
-- Building and maintaining independent digital projects
-- Exploring full-stack engineering and API integrations
-- Interested in scalable systems, automation, and product development
+Currently building products while pursuing B.Tech in Information
+Technology at NMIMS MPSTME.
 
 ---
 
-### LANGUAGES
+### PROGRAMMING LANGUAGES
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Python, Java, C++, C" />
 
-<img src="https://skillicons.dev/icons?i=ts,python,java,cpp,js&theme=dark" alt="TypeScript, Python, Java, C++, JavaScript" />
+**Also working with:** SQL
 
-</div>
+### TECHNOLOGIES & TOOLS
 
-### TECHNOLOGY STACK
+<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nextjs,tailwind,nodejs,postgres,prisma,neon,git,github,vercel,blender&theme=dark" alt="Technology stack" />
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,postgres,prisma,git,github,vercel&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Prisma, Git, GitHub, Vercel" />
-
-</div>
+**Databases:** PostgreSQL · Neon  
+**3D Modeling:** Blender
 
 ---
 
@@ -51,15 +50,18 @@ booking platforms, and event technology.
 #### 01 — GigaEsports.in
 **Esports Technology**
 
-An esports platform focused on gaming content and digital experiences.
+An esports platform focused on gaming content, match information,
+and digital experiences.
 
 [Website](https://gigaesports.in) · [GitHub](https://github.com/sarvvesshhhh)
 
 #### 02 — Hydrasaurus Agency
 **Creator Operations & Technology**
 
-A digital talent management and operations agency working in the gaming
-and creator ecosystem.
+Founder-led creator management and operations agency working
+across the gaming and digital creator ecosystem.
+
+27+ Creators · 600K+ Combined Reach
 
 [GitHub](https://github.com/sarvvesshhhh)
 
@@ -70,22 +72,36 @@ A parking-related web project focused on digital booking experiences.
 
 [Website](https://parkryze.in) · [GitHub](https://github.com/sarvvesshhhh)
 
-#### 04 — Sattva 2027
+#### 04 — Sattva NMIMS 2027
 **Campus Technology**
 
-Technology initiatives for a college festival, including website and
-registration-form development.
-
-[GitHub](https://github.com/sarvvesshhhh)
+Leading technical initiatives for the college festival, including
+website development and registration systems.
 
 ---
 
 ### CURRENT FOCUS
 
-- Full-stack web development
-- Building useful products from the ground up
-- API integrations and backend systems
-- Improving software architecture and engineering practices
+- Full-stack development and software engineering
+- Backend systems, databases, and API integrations
+- Product development and technical operations
+- 3D modeling and Blender
+
+---
+
+### CONNECT
+
+**Business & Agency Inquiries**  
+[sarvesh@hydrasaurusagency.in](mailto:sarvesh@hydrasaurusagency.in)
+
+**Personal Email**  
+[shindesarvesh727@gmail.com](mailto:shindesarvesh727@gmail.com)
+
+**Professional Network**  
+[LinkedIn](https://www.linkedin.com/in/sarvvesshhhh)
+
+**Instagram**  
+[Instagram Profile](https://www.instagram.com/sarvvesshhhh/)
 
 ---
 
@@ -93,6 +109,6 @@ registration-form development.
 
 **BUILD · SHIP · IMPROVE**
 
-<sub>Designed with simplicity in mind.</sub>
+<sub>Technology, entrepreneurship, and products built with purpose.</sub>
 
 </div>
